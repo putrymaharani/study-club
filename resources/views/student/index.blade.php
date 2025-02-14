@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Test</title>
 </head>
 <body>
     <table border="1" cellspacing="0">
@@ -14,6 +14,7 @@
             <th>Prodi</th>
             <th>Angkatan</th>
             <th>Alamat</th>
+            <th>TEST</th>
         </tr>
 
         @foreach ($students as $student)
